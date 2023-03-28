@@ -16,17 +16,17 @@
 }
 
 .bg2 {
-  background-image: url("espacio/bg2.jpg");
+  background-image: url("/espacio/bg2.jpg");
 
 }
 
 .bg3 {
-  background-image: url("espacio/bg3.jpg");
+  background-image: url("/espacio/bg3.jpg");
 
 }
 
 .bg4 {
-  background-image: url("espacio/bg4.jpg");
+  background-image: url("/espacio/bg4.jpg");
 
 }
 .containerInfo_title {
